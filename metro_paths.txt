@@ -1,0 +1,93 @@
+Addison Road	Capitol Heights
+Addison Road	Morgan Boulevard
+Anacostia	Congress Heights
+Anacostia	Navy Yard-Ballpark
+Archives	Gallery Place
+Archives	L'Enfant Plaza
+Arlington Cemetery	Pentagon
+Arlington Cemetery	Rosslyn
+Ballston-MU	Virginia Square-GMU
+Ballston-MU	East Falls Church
+Benning Road	Capitol Heights
+Benning Road	Stadium-Armory
+Bethesda	Medical Center
+Bethesda	Friendship Heights
+Braddock Road	King Street-Old Town
+Braddock Road	Ronald Reagan Washington National Airport
+Branch Avenue	Suitland
+Brookland-CUA	Rhode Island Avenue-Brentwood
+Brookland-CUA	Fort Totten
+Capitol South	Federal Center SW
+Capitol South	Eastern Market
+Cheverly	Landover
+Cheverly	Deanwood
+Clarendon	Virginia Square-GMU
+Clarendon	Court House
+Cleveland Park	Woodley Park
+Cleveland Park	Van Ness-UDC
+College Park-University of Maryland	Prince George's Plaza
+College Park-University of Maryland	Greenbelt
+Columbia Heights	Georgia Avenue-Petworth
+Columbia Heights	U Street
+Congress Heights	Southern Avenue
+Court House	Rosslyn
+Crystal City	Pentagon City
+Crystal City	Ronald Reagan Washington National Airport
+Deanwood	Minnesota Avenue
+Dunn Loring	West Falls Church
+Dunn Loring	Vienna
+Dupont Circle	Woodley Park
+Dupont Circle	Farragut North
+East Falls Church	McLean
+East Falls Church	West Falls Church
+Eastern Market	Potomac Avenue
+Eisenhower Avenue	King Street-Old Town
+Eisenhower Avenue	Huntington
+Farragut North	Metro Center
+Farragut West	McPherson Square
+Farragut West	Foggy Bottom-GWU
+Federal Center SW	L'Enfant Plaza
+Federal Triangle	Metro Center
+Federal Triangle	Smithsonian
+Foggy Bottom-GWU	Rosslyn
+Forest Glen	Silver Spring
+Forest Glen	Wheaton
+Fort Totten	Takoma
+Fort Totten	Georgia Avenue-Petworth
+Fort Totten	West Hyattsville
+Franconia-Springfield	Van Dorn Street
+Friendship Heights	Tenleytown-AU
+Gallery Place	Mount Vernon Square
+Gallery Place	Judiciary Square
+Gallery Place	Metro Center
+Glenmont	Wheaton
+Greensboro	Tysons Corner
+Greensboro	Spring Hill
+Grosvenor-Strathmore	White Flint
+Grosvenor-Strathmore	Medical Center
+Judiciary Square	Union Station
+King Street-Old Town	Van Dorn Street
+L'Enfant Plaza	Smithsonian
+L'Enfant Plaza	Pentagon
+L'Enfant Plaza	Waterfront
+Landover	New Carrollton
+Largo Town Center	Morgan Boulevard
+McLean	Tysons Corner
+McPherson Square	Metro Center
+Minnesota Avenue	Stadium-Armory
+Mount Vernon Square	Shaw-Howard University
+Navy Yard-Ballpark	Waterfront
+Naylor Road	Southern Avenue
+Naylor Road	Suitland
+NoMa-Gallaudet U	Rhode Island Avenue-Brentwood
+NoMa-Gallaudet U	Union Station
+Pentagon	Pentagon City
+Potomac Avenue	Stadium-Armory
+Prince George's Plaza	West Hyattsville
+Rockville	Shady Grove
+Rockville	Twinbrook
+Shaw-Howard University	U Street
+Silver Spring	Takoma
+Spring Hill	Wiehle-Reston East
+Tenleytown-AU	Van Ness-UDC
+Twinbrook	White Flint
